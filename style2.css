@@ -1,0 +1,56 @@
+body {
+	background-color: gray;
+	color: black;
+	margin: 50px;
+	margin: 50px;
+}
+
+ul {
+	padding: 0px;
+	background: rgba(0, 0, 0, 0, 5);
+}
+
+li {
+	display: inline-block;
+	padding: 0px 0px 0px 10px;
+	color: rgba(#aaa);
+}
+
+h1{
+	font-family: 'Anton', sans-serif;
+	font-size: 50px;
+	padding: 5px;
+	line-height: 20px;
+}
+
+span {
+	color: orange;
+}
+
+h3{
+	font-family: Arial;
+	font-size: 25px;
+}
+
+p{
+	font-family: Arial;
+	font-size: 14px;
+	display: justify;
+	width: 600px;
+	font-weight: bold;
+}
+
+a {
+	color:darkslategrey;
+	text-decoration: none;
+
+}
+
+a:hover {
+	color:orange;
+	text-decoration: underline;
+}
+
+a.active {
+	color:orange;
+}
